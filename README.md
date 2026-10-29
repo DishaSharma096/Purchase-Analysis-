@@ -69,7 +69,7 @@ Purchase-Analysis-Report/
 3. Explore the dashboard visuals and KPI metrics.
 4. Use the available slicers to filter and analyze the data.
 
-   **Screenshot:
+   **Screenshot: https://github.com/DishaSharma096/Purchase-Analysis-/blob/main/Screenshot%202026-10-29%20043950.png
 
 👨‍💻 Author
 
